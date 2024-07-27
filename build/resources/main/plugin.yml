@@ -1,0 +1,6 @@
+name: Micra_Twentythree
+version: '1.0-SNAPSHOT'
+main: plugin.micra_twentythree.Main
+api-version: '1.20'
+commands:
+  enemydown:
